@@ -1,0 +1,21 @@
+{
+  "name": "burgercss",
+  "version": "1.0.0",
+  "description": "Burger CSS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "max-react9"
+  },
+  "keywords": [
+    "CSS"
+  ],
+  "author": "Clark Newell",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
